@@ -1,0 +1,20 @@
+.dashboard{
+    width: 100%;
+    height: calc(100vh - 100px);
+    background-color: rgb(147, 217, 210);
+}
+.dash-body{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    color: white;
+}
+.info-card{
+    width: 300px;
+    height: 200px;
+    background-color: rgb(66, 77, 74);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

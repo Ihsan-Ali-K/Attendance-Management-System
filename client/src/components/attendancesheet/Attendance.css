@@ -1,0 +1,17 @@
+.attendance-sheet{
+    max-width: 100%;
+    height: calc(100vh - 100px);
+    background-color: rgb(160, 198, 198);
+
+   
+}
+.sheet{
+    width: 100%;
+  
+
+    margin-bottom: 20px; /* Optional: Add margin to the bottom */
+}
+.sheet table{
+    width: 100%;
+
+}

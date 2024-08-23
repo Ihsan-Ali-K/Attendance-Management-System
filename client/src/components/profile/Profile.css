@@ -1,0 +1,32 @@
+.profile{
+    height: calc(100vh - 100px);
+    background-color: rgb(172, 233, 233);
+    display: flex;
+
+}
+.profile .sidebar{
+    width: 300px;
+    height: 100%;
+    background-color: rgb(141, 219, 203);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+}
+
+.profile .information{
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: center;
+}
+.profile .sociallinks{
+    height: 200px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.icon-large {
+    font-size: 50px; /* Size in pixels */
+  }
